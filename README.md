@@ -36,7 +36,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=dench7&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>XOXOXO</i>⚡️</h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
